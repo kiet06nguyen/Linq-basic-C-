@@ -3,6 +3,7 @@ A simple C# project demonstrating how to use LINQ in a console application.
 
 ## Introduction
 This project illustrates how to use LINQ (Language Integrated Query) in C#. It includes examples of querying lists, filtering data, sorting, and grouping data in a console application.
+![image](https://github.com/user-attachments/assets/db16827a-f601-4bda-9494-f069c262cb79)
 
 ## How to Run
 Requirements:
